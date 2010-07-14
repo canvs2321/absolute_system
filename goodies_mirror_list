@@ -6,7 +6,10 @@
 			rom_name: "Kangerade",
 			version: "5.0.9",
 			android: "2.2",
-			goodieszip: "http://www.froyoroms.com/files/developers/jrummy/JRummy/Other/goodies.zip"
+			goodieszip: 
+			{
+				mirror1: "http://www.froyoroms.com/files/developers/jrummy/JRummy/Other/goodies.zip"
+			}
 			bootanimations: 
 			{
 			banana: "http://www.hostserver.com/banana.zip",
