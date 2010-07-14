@@ -1,13 +1,18 @@
-[goodies.zip]
-[!--URLS for full goodies.zip go here--!]
-[froyoroms.com]http://www.froyoroms.com/files/developers/jrummy/JRummy/Other/goodies.zip
-[boot_animations]
-[!--URLS for Boot Animations go here--!]
-[extraapps]
-[!--URLS for Extra Apps go here--!]
-[fonts]
-[!--URLS for Fonts go here--!]
-[livewallpapers]
-[!--URLS for Live Wallpapers go here--!]
-[recovery]
-[!--URLS for Recovery go here--!]
+{
+	ROMS:
+	[
+		{
+			developer: "JRummy",
+			rom_name: "Kangerade",
+			version: "5.0.9",
+			android: "2.2",
+			goodieszip: "http://www.froyoroms.com/files/developers/jrummy/JRummy/Other/goodies.zip"
+			bootanimations: "http://www.hostserver.com/bootanimations/",
+			extraapps: "http://www.hostserver.com/extraapss/",
+			fonts: "http://www.hostserver.com/fonts/",
+			livewallpapers: "http://www.hostserver.com/livewallpapers/",
+			recovery: "http://www.hostserver.com/recovery/",
+			donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=E6V5DKY95LYVS&lc=US&item_name=JRummy%20Roms%20%26%20Themes&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
+	}
+	]
+}
