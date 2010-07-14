@@ -12,8 +12,8 @@
 			}
 			bootanimations: 
 			{
-			banana: "http://www.hostserver.com/banana.zip",
-			mario: "http://www.hostserver.com/mario.zip",
+				banana: "http://www.hostserver.com/banana.zip",
+				mario: "http://www.hostserver.com/mario.zip",
 			}
 			extraapps:
 			{
