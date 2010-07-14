@@ -7,12 +7,28 @@
 			version: "5.0.9",
 			android: "2.2",
 			goodieszip: "http://www.froyoroms.com/files/developers/jrummy/JRummy/Other/goodies.zip"
-			bootanimations: "http://www.hostserver.com/bootanimations/",
-			extraapps: "http://www.hostserver.com/extraapss/",
-			fonts: "http://www.hostserver.com/fonts/",
-			livewallpapers: "http://www.hostserver.com/livewallpapers/",
-			recovery: "http://www.hostserver.com/recovery/",
+			bootanimations: 
+			{
+			banana: "http://www.hostserver.com/banana.zip",
+			mario: "http://www.hostserver.com/mario.zip",
+			}
+			extraapps:
+			{
+				handcent: "http://www.hostserver.com/handcent.apk"
+			}
+			fonts:
+			{
+				arial: "http://www.hostserver.com/arial.ttf"
+			}
+			livewallpapers:
+			{
+				mario: "http://www.hostserver.com/mariobootanimation.zip"
+			}
+			recovery:
+			{
+				sprecovery: "http://www.hostserver.com/sprecovery.99.3.b.img"
+			}
 			donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=E6V5DKY95LYVS&lc=US&item_name=JRummy%20Roms%20%26%20Themes&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
-	}
+		}
 	]
 }
